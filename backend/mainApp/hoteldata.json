@@ -1,0 +1,1300 @@
+[
+    {
+        "id": 1,
+        "hotel_name": "Wyndham Chandigarh Mohali",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 5,500"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 6,000"
+            }
+        ],
+        "price": "₹ 6,000",
+        "hotel_description": "Comfortable Accommodations: Wyndham Chandigarh Mohali in Mohali offers spacious rooms with air-conditioning, private bathrooms, and city views. Each room includes a tea and coffee maker, minibar, and free WiFi. Exceptional Facilities: Guests can enjoy spa facilities, a terrace, restaurant, bar, and massage services. Additional amenities include a fitness room, yoga classes, and a hot tub. Dining Experience: The hotel serves brunch, lunch, dinner, high tea, and cocktails at its restaurant. Private check-in and check-out, a 24-hour front desk, and concierge service enhance the stay. Prime Location: Located a few steps from Chandigarh Airport, the hotel is near attractions such as Rock Garden (16 km) and Mohali Cricket Stadium (9 km). Guests appreciate the attentive staff and spacious rooms.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800944.jpg?k=b78f2ba18f504fd6b989e191af573a6fdab8677ddfaf423f7a2bd044edc8a59a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800975.jpg?k=6403f72a8620168f2e1d420d7e06e5798ce09c50545c74070244d3b1bb8d4ba8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800966.jpg?k=f84acf1f662a2c81acbbb7d94a3128bc150f88a2220b3ce44af658860252a955&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801006.jpg?k=2875930111eb24ff7136642bf5e4022f4b684a215280f840837f7bf3384693a5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801016.jpg?k=847e913cf45a2b727187bdff9766fe0d6430551bbea56ac5a184c0b717da4fef&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800949.jpg?k=4f7bdf9d77a26fa7ecc79ca8eb203af50adb3487a5b2e678e60e076642ca8681&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800950.jpg?k=733a5d18c0a87d08c0b65db4e23f6f769b9b89bb57e5a353a36dc99e10af7478&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800953.jpg?k=76c7297af501968e9a05ed38748baecce5e451f8eeb4e8e7d976e7247921acb7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800958.jpg?k=5e8d9783c703584787055497688f89f435d955c5aeb875063a6adcf9a868ec9e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800957.jpg?k=eb9ac268587bf6f7c28dcef5f2692521584ab8a54b80979a49b8cdbcfe8d84ed&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800960.jpg?k=d7abe3e6b5360bd116107a4624bb3367d9b9128247276eb3cc7d94182c3b055c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800962.jpg?k=191bf7dfda892aaa530e030313f18b1bff686736ecd6c951a546ae74f13d8ad2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800963.jpg?k=5bc9d19a0908c3bd789f8bd19633a7513a588121c9ed7e300a6e6076e4f091b7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800970.jpg?k=764e4c27b3642b501a40eb9ebaf9537d0dcdefc0390723b07c972961f680bf67&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800971.jpg?k=715a810962a4e0b42f8c7d0220212ca3c71788ef7d106145887f80b9705cec2e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800969.jpg?k=8045296aa56a219886d6aa2168fd69023ed258dccc558079dc7c5f42cd1afd6d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800973.jpg?k=30ffa32adb223fa5803fe250ca9f20dd6435c4fc4c9492a6fbc85e512926d03e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800981.jpg?k=b3239550b644f356585a9351595ff7a14e3714813d458d3e7c6ee4a087e82078&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800977.jpg?k=048f4b1ecc6e99de333c2f89f4dd195d325167216818914f294c61ad520fcc4e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800982.jpg?k=951ba6cf757da8932289a15c7fbbb5ffd6460b6299281b7fc45378aa6e4f8701&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800985.jpg?k=a8666264eb5860bf2e2ad04bdde166e54d65a9d25845d36a9b28782e816088ad&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800988.jpg?k=322140f040744d80fb7bb0a79269db329892ecaaeaff8a7853c39ac34b9d9653&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800987.jpg?k=0b904be58714a1a510a014fbd02c98be7ffe9c60c8120528f9b691b24f43cf4c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800992.jpg?k=019b9b44f8000c60eb55576d227651905cfe7e3ac2413a224c9b2795d3d06842&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800994.jpg?k=b754a51bc0a4cae1d9bbb831df8ff9847d2bde6bfdba767f5fb9f09fc3174e9b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800997.jpg?k=0fb864808d513c462fad64e8f275f1f63201208938bf7d62d1756ca52b60c545&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347800998.jpg?k=cd04ca8a67c7ba0dee07fe407675cdf3e3087ab744b86c10ccefe6e83432950f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801003.jpg?k=9fc3ce8a8ad00981389ea1e127b98e403f50ce1dac6e3735838b808f5f8c2efc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801008.jpg?k=b5f9b46f1c34444fcc3d12719b8f99853dd337eeb0546389c7f2b17165b63b0b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801007.jpg?k=67b3225ca8fc63c665b42b0b7825499244c946b3179a3c05f342fbdf9d885f29&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801010.jpg?k=f9896b0a17e4e17d897459cb883c4e2c1ce4b27a0f00b045e9fd8f1b7654797f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801014.jpg?k=a9722d6520ae9b47029d7e1282a3e533707b3211d120148bd3d5bd97beea0b93&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801015.jpg?k=8da8f3fb5f3b3aa912882194abd9f75b9ecf3e220f1d02afe5428259b1da1a35&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801019.jpg?k=31aa337b79fe5796c93fd348c698e7ff9360d82d44a407e140bc75f12929f262&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801024.jpg?k=bdda6ba10b893a00467c611ac3046a082e1f1907ae1eabd9f50d26c02423cb33&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801025.jpg?k=dc0bf65466c1a5e9a74e156eb1c9c715b87a44429331eb46d0e9a5303fe2ec21&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801026.jpg?k=1e8afc3c7ed5f906c414f3c8a122bfdac4008e68dff94b8b4c503866d4cd4e63&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347801031.jpg?k=acc1b10f717e0120798d98e52062b94e688e3be9eaf97774809135140cd55452&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327426468.jpg?k=e32ca9c0d6aacde79df164fdd860fa37dcb1e7ff099248445c4f08f0d0ced565&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762181.jpg?k=6eba89783cb378561edbdb66b5c840fc904efff2fa2e341c9379bb6b5069b656&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762180.jpg?k=a5d618d425b36426cae164a28a823b8f286c80cfd1354fef72bf4153b9700335&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762179.jpg?k=b9c0b7ac07702d65f8112033e83d827cbaa5ed3d5f530b67826c8cb54564f778&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762177.jpg?k=e34d7e511627f9879f0497a9f7dedd3fb4ecfbe73f6d2a629350ec2298d0a5d2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762173.jpg?k=7a14ceec42e5203b0c682126884a7605b5a92f19984f06c7fe5518cb053eb230&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332762296.jpg?k=38fd0cac584b472c813ed8b584c9f512eca7d28193fc68580f8cbdc922c2bfd5&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "King Room - Non-Smoking",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,000"
+                    },
+                    {
+                        "roomtype": "King Room - Smoking",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,000"
+                    },
+                    {
+                        "roomtype": "1 King Bed with Bathtub, Non-Smoking",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,000"
+                    },
+                    {
+                        "roomtype": "1 Twin Beds, Non-Smoking",
+                        "roomtype_bed": "1 single bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,000"
+                    },
+                    {
+                        "roomtype": "King Room - Mobility Access/Non-Smoking",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,000"
+                    },
+                    {
+                        "roomtype": "Twin Room - Smoking",
+                        "roomtype_bed": "1 single bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,000"
+                    },
+                    {
+                        "roomtype": "King Suite - Non-Smoking",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 15,000"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "36 m²",
+                    "City view",
+                    "Air conditioning",
+                    "Private bathroom",
+                    "Flat-screen TV",
+                    "Soundproofing",
+                    "Minibar",
+                    "Free toiletries",
+                    "Shower",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Sofa",
+                    "Towels",
+                    "Linen",
+                    "Socket near the bed",
+                    "Tile/marble floor",
+                    "Seating Area",
+                    "TV",
+                    "Slippers",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Pay-per-view channels",
+                    "Heating",
+                    "Hairdryer",
+                    "Additional toilet",
+                    "Towels/sheets (extra fee)",
+                    "Wake up service/Alarm clock",
+                    "Electric kettle",
+                    "Wake-up service",
+                    "Alarm clock",
+                    "Tumble dryer",
+                    "Wardrobe or closet",
+                    "Upper floors accessible by elevator",
+                    "Clothes rack",
+                    "Fold-up bed",
+                    "Toilet paper",
+                    "Entire unit wheelchair accessible",
+                    "Hand sanitiser"
+                ],
+                "conditions": "Good breakfast ₹ 599 Total cost to cancel No prepayment needed – pay at the property discount may be available"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "hotel_name": "Hyatt Regency Chandigarh",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 9,500"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 8,798"
+            }
+        ],
+        "price": "₹ 8,798",
+        "hotel_description": "Hyatt Regency Chandigarh hotel situated in the heart of Chandigarh, just beside the Elante Mall, It is a getaway to the vibrant hills of Himachal, Uttarakhand, and further north. Hyatt Regency Chandigarh is centrally located. Rooms and suites have a view of the Elante Mall and courtyard. Feautring minibar, a smart TV, a separate shower cubicle, a bathtub and some rooms featuring a balcony. Free Wi-Fi is provided in all rooms. The property offers a restaurant with two cusines Italian and Asian on the rooftop, café, bar and lounge. Features a landscaped pool and fitness facilities. Guests can enjoy buffet breakfast. Rock Garden, Sukhna Lake, Rose Garden and Sector 17 Plaza are 6 to 7 kms away.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320271.jpg?k=7837be2e21e3eb37f52498a0aa965b8a0b4011973bfc4fa54c7a0f7b5a0e4799&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320742.jpg?k=bad22db28226d6041083e0beac8ffe1693b3f8e46eaec134f03e272178a650e4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143075530.jpg?k=24d521013930d4502bd906e34e3e5908d0a58af1e3e9115e789aa2a0c659776e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376006108.jpg?k=3be7e5b6ede93cb9efb086e4783a60e1867db519c095b30ca3778105f255573f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376009300.jpg?k=c055ca86c9c802bbcd7ef27c7d60fff4a346cfed2ac3655e380f6f250f18bcec&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320282.jpg?k=74f3b1d14b65ecc92d57dd68389892c985237ad47dce64613b29a0e59be97a51&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007149.jpg?k=6309a2d0ee20ce05924f1f4a7c321c0b87081dae6db27052a20e13f7e6a58f3d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254598629.jpg?k=d796c65699660f2b20514d79abb3ec69d2c96fe6bb45fb2217fec33cde43f0fc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320631.jpg?k=1cdeb93cf917797e2a1649ba82cf9cb240faccaa5529bff1601c422d86a8e55e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007152.jpg?k=952cc2ac1eb47a8d32127f8d1ba9f45514248239d7cfdb42c0ff334a55626c7b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376006055.jpg?k=02801f4cb27b5ecd112a55b296d7e382359f26fdf9d570c0000883bd7afb9798&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007234.jpg?k=b12f709a45c27e8cacfe94499d1b97088d1e5e303ec0ecebb2160205c35df3f1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376008820.jpg?k=67c2eb0c1c9037ed238252bbea604ae373ca7b071355430d6e33d8b91d3875d2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376008935.jpg?k=7e7704c200e86f1e11017dc1e7017b6990f5587c390b3f2da2a7846961328275&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376008292.jpg?k=1ca7a57d2a60ae74e1cc4b16b076980a59129720a022a0bed2befa35ffb926a3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376008330.jpg?k=cbbd2a29e07df0c8c85ecbe50963ae9b2305850c513e4477e6cbbd77a26a3e44&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376007177.jpg?k=9d55043710969a71077c29e091f60aa910dbd7dacbd266edb0215a8b964cf665&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274165295.jpg?k=cc4306fd7f43b01520900066253d70a70d7c12de41092eb7f0f421d018229155&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274165219.jpg?k=acd9a5617409a4a82ed5f977abff718f17e14afc637871a679dcd1f775dac05e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320646.jpg?k=2b046b243f5c60ed271578a8721741ce95b40616bd951b4d3dea2e1775d07476&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/80654233.jpg?k=9952957538d70e91bea95ae98940a843848620c872e7abc0f2eee8fa91bc709f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320622.jpg?k=adbcb8e09f2b9b3c719fa0ec96c76a663d8572ae6bce4434d3bb48ca58e4608e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320719.jpg?k=524f0d4ba96f2c7f1bd1a83dcc1177d7031d6b5829ee575a7da972e07eb3b350&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320738.jpg?k=3a0423b737312496f42425732c4eb5e3e7ee09e9822f52e9a7eedf06b41ba395&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320733.jpg?k=a35b625f4f47b5ce58260cd5adde7724472c9cea4f82f843d4350d91b7ab5fe9&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254598628.jpg?k=127fb429479d2a67543c59c703adc56bf929cbb934668b7f51784ea209da4ec2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274165385.jpg?k=f48a649d1a37f3d88883589cce99d84b8f22afdff795247ab03a62f90d973990&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320586.jpg?k=090ea5a9e0e042317ffdec5b4cb92c13b50708e12b717bd8751762f5f117a6a3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274165348.jpg?k=de1f5a03391f22d195fedfbda6aa4b80a572e300b078d690a7369a0d1d002b15&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186136648.jpg?k=86d189f32ca4b7b6af8d49d0b097fa0e0c5968d83e0ef5f65351619da08ac344&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320263.jpg?k=43f5e7650e99409211ff222172e8169e9fadf35225823854874250e4df4c966d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250883422.jpg?k=c5a30d61fab68628a0654b44062805615b877ea33f00afe6d735b76feb158c76&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320554.jpg?k=c1ddb1b9f52815bab3772534be4d37439987ddd86f475f9031be11c3e6b6c940&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320726.jpg?k=36835888744fc70132c343e3b08a11a237aa9378c11294849b1c66a8cc4bff37&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320736.jpg?k=13f8a4cf5600efacafb6d21b91fd274adc8ddb22d5bd27cb443d983994aff1f7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320698.jpg?k=94f280a970f399c7049c4c3440e4c9d35a38de999de95bc57d50b0c4da2edb04&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320687.jpg?k=3a4da98ad4738dc9459cb6864718ca0a068402dc5d01c5e94b8cbe036356f6c1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320676.jpg?k=bc7141e2e7ade9d5e7abea1b4987ea358a5d6a662d9efdab208364377d77fa06&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320672.jpg?k=a7ad7167debbdc78c243b69d7ecaee9cfddd09c534298ff5724166f6a4e3140f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320667.jpg?k=b1659a5d7324c3ec4253d586e7f32158ef815e553c359e1fb49ed3d3b90ae862&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320597.jpg?k=07bd4540e4c2e6c6ef27baa7c37fb220542493e0857b7d9bdfbf9baf445dd2ae&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320574.jpg?k=6a105b48da17f872d958035ad50bc91dd3d149be3b2362583e09c78ceca95ac3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320561.jpg?k=06f4fbde8d49129f5e14bc1f945441f1075d4326a9c73adfa59b2489ea319930&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320505.jpg?k=15a5845e9f97f0bb1d3d3c6fdef404de0628400fe12624ed6e15a29d8825b760&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/110320461.jpg?k=1e48dd068d70c39e21d2641f6f1ecb0000a2ee1d04a6eec84b4e3e2927ab06ed&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,798"
+                    },
+                    {
+                        "roomtype": "King Room - Club Access (Complimentary Cocktail Hours - 6 PM to 8 PM, Acess to Club Lounge, Complimentary Buffet Breakfast)",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 10,923"
+                    },
+                    {
+                        "roomtype": "Twin Room",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,798"
+                    },
+                    {
+                        "roomtype": "King Room with Elante Mall View",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 9,223"
+                    },
+                    {
+                        "roomtype": "Twin Room - Club Access (Complimentary Cocktail Hours - 6 PM to 8 PM, Acess to Club Lounge, Complimentary Buffet Breakfast)",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 10,923"
+                    },
+                    {
+                        "roomtype": "King Room with Balcony and Pool View",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 11,348"
+                    },
+                    {
+                        "roomtype": "Twin Room with Mall View",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 9,223"
+                    },
+                    {
+                        "roomtype": "Suite (Complimentary Cocktail Hours - 6 PM to 8 PM, Acess to Club Lounge, Complimentary Buffet Breakfast & One way Airport transfers)",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 17,425"
+                    },
+                    {
+                        "roomtype": "Executive Suite - (Complimentary Cocktail Hours - 6 PM to 8 PM, Acess to Club Lounge, Complimentary Buffet Breakfast & One way Airport transfers)",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 21,675"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "36 m²",
+                    "Air conditioning",
+                    "Ensuite bathroom",
+                    "Flat-screen TV",
+                    "Minibar",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Bath or shower",
+                    "Hypoallergenic",
+                    "Desk",
+                    "Video",
+                    "TV",
+                    "Refrigerator",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Radio",
+                    "Hairdryer",
+                    "Cable channels",
+                    "Wake-up service",
+                    "Alarm clock",
+                    "Wardrobe or closet"
+                ],
+                "conditions": "Good breakfast ₹ 1,000 Non-refundable • Pay the property before arrival"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "hotel_name": "Ramada Plaza By Wyndham, Chandigarh Zirakpur",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 4,500"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 5,000"
+            }
+        ],
+        "price": "₹ 5,000",
+        "hotel_description": "Featuring free WiFi, an outdoor swimming pool and a terrace, Ramada Plaza By Wyndham, Chandigarh Zirakpur offers accommodation in Chandīgarh, 10 km from Rock Garden. Guests can enjoy the on-site bar. Free private parking is available on site. The rooms are fitted with a flat screen TV. Certain rooms include a seating area to relax in after a busy day. You will find a kettle in the room. All rooms are fitted with a private bathroom with a bath and shower, with bath robes and slippers provided. You will find a fitness centre, spa and wellness centre and massage parlour at the property. 24-hour front desk is available. Elante Mall is 2 km from Ramada Plaza By Wyndham, Chandigarh Zirakpur, while Sukhna Lake is 8 km from the property. The nearest airport is Chandigarh Airport, 2.5 km from the property. The Chandigarh Railway Station is 10 km. The in-house all-day dining restaurant serves multui-cuisine.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262579250.jpg?k=4739f4e4dfa2bebaba139211fb6703efe499ebf94d97c85ca9382e55965a5530&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262579254.jpg?k=a7390d96b2ce66081920054dee9d2023b7a884dab9d01755367193b95858c783&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132153.jpg?k=3c9c317ab67409eaae005dfb3c3cc1f046d6e4cdd942e30f93ea7593dc435e1a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194689856.jpg?k=7f0e9afcc038f0b571201b53e72ec12d210b584a721458fe0e122b510ad8f0fe&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131911.jpg?k=e1d26700b4aff611883284076e41f3a009aa876800e97dcf0c74187afa7c98f6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984414.jpg?k=119864862678d6855d507b00bdd1298ea234955e9bedfd68cb215655d2423b5e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506985561.jpg?k=fb2126961c4fd53170bd732389ea25fec7feeb45abf43da7ab36533dd062b735&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984407.jpg?k=338a416bbf182b5e4b8efc814eb1598cab9788f8254d7efd3fe77b3a077a47ca&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132217.jpg?k=640ddfa008868ef715a9134d12853cedf27b80578c316c3e7fab56785eedcc71&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984409.jpg?k=86b9e07555aa832ca001e5fc01bfbfaf39332df08e8cd03a7e61205fd117af3f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131658.jpg?k=d7c60140cffeb645dab34e01709cd64421dc329d3f5b6b4de778bd6eae4ef343&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378574676.jpg?k=499da9058a807896c543367fbda7d649fab4a05b1bc3189678e24cc75f69bc44&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292618453.jpg?k=c01f15480f039ef55666268fc0bd07af6dae4be0208fa811128e6de04544e46a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132114.jpg?k=5fd0487f12d58c33049ae51bdd9ffdb9a4684126a08103b7c0740dfedb8b68d6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131854.jpg?k=c6acff1ab41e6a9b3de86200217c2f4e27385db313e851aed92510703b5c3d39&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132097.jpg?k=e08cc1e1c4a6b756c72d95931093d18fc1344e10ccb520de1967fcaa1c8e032f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429863328.jpg?k=e8391ea2c2d941ef30f008a65c9332cabc8e35308ef58ed96524bb7b7ee8417d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132191.jpg?k=3e9fb01057a97b208fdc47106dae55a994b23905d2fd108f10f9a57714201f53&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131929.jpg?k=f99e5051f0b0672e5be0a818dfea1a3bf9c1d3f71efe14d2e8b9accc59268e59&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132291.jpg?k=e89f8e600ffa70028491f3f2c18e52ded33c5f9bca7458e6c9c2b469d1782c58&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262579253.jpg?k=15564dff0e2008c55ff31f3e933ac8fba2f61a97a05e50b5e93ce5efa265aed6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262579255.jpg?k=037039b5dbb8baea901917d48c91e5634b021b4231116a4bc624940ddb1419a1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131999.jpg?k=c2c85d46b58a0da2412559d6f5ef700e7758a720777278ea21dcf6f9940c5998&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131791.jpg?k=36223df582c7cec9b880d3e845d4997915654cb3f40ba931ae676d6d2459e823&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132274.jpg?k=d7f75bbfd1792ae61bd7cffb20e874bca6398a5b105ae4ddbc81085f6671c673&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378574678.jpg?k=87ba05372f664e047c39c9c4a19b9240d51d1f9f058689b74a8102390d213a2f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132158.jpg?k=8fc29fed528cc2e99e7fc4e13a3d8c892e648652441503232d13debdd31a15e5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131690.jpg?k=7acc1c9fcaaa9bddba492d52adece8b950d292ed2ace576ae2c3c0a280ab66ea&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135132307.jpg?k=8a0ca226c95160847e14ae4991443750b33ee3db512f9dd30a790d23e3182cb3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135131695.jpg?k=851a950e7233481d40aab37cb83836a2c28ca173a74e6425d02f1ee496127cf0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984400.jpg?k=af40a0b46f2fc1dfad38cb18568f1c7fdfd57fa18236dc9f5308d24d541d36d7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984398.jpg?k=124a2c6651ed4e8242256b9f13d0297ea1a605d3d2644dce82d5e2863860155d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280295637.jpg?k=ab610cea76e7573ea63962d7c12d97d62071a70c96f0cd281056269fc7ad343e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280295544.jpg?k=8e677ef2698e39335ee1880c69076981710ddd0677c614ffa8a062dfd4bff66f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280294864.jpg?k=184b5cbbb4dcbd8578388a75db0ccbde6f0a8e2648b724431205beaeb5986aad&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280222672.jpg?k=b695fc9a361f5309917a725df2c8e0295a1ab7f5423cbb1352a44fe11269f2f8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219752.jpg?k=04ed57fd833431770f344e027126c6d00c38397571fc1aabf010e67c894ffc49&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219713.jpg?k=720dfd77f7355436525bcc71f08482b6d2d14258f0b8412c2fe4cc8e693ec445&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219520.jpg?k=de5a9e3f37a0fbffaf51717ae523fa6d0bf497626bca4ea22427aa46b8e09f78&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219361.jpg?k=2695e1d2ffde1399e9f5445df32acdc50a43737f1547ca61a02c6f7ad677070c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219267.jpg?k=e2ee002227ffe9d9e103c6bf067a05da6d9f8b9b9a880ba3799d212c9e0bc4a4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280219165.jpg?k=6f169cb7a9175fee2ff957cd5812ee57f577fd98cca931bca3a57cb3480f25d4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63984423.jpg?k=08dc4f4d02d6e09a8b05c514f06fee70595d8d463ffa3c1cfeef2111611ba0f2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194689873.jpg?k=77d43221fb5527bf08dd2a32d743e3ca9cbb6b2a85c5cfe6be1eb82422a398b8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194689843.jpg?k=c53fead0e759418cfc3afea4de0d091da9b3060567e44a0d2bb44dc93ef228bc&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Executive Double Room (Non Smoking) - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": "1 double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 5,000"
+                    },
+                    {
+                        "roomtype": "Executive Twin Room (Non Smoking) - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 5,000"
+                    },
+                    {
+                        "roomtype": "Luxury Double Room - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": "1 double bed ",
+                        "number_of_guests": "Max persons: 3",
+                        "price__value": "₹ 15,000"
+                    },
+                    {
+                        "roomtype": "Executive King Suite (Non Smoking) - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 3",
+                        "price__value": "₹ 19,000"
+                    },
+                    {
+                        "roomtype": "Luxury Suite - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 3",
+                        "price__value": "₹ 24,000"
+                    },
+                    {
+                        "roomtype": "Luxury Suite (Non Smoking) - Book & Unlock Exclusive Discounts",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 3",
+                        "price__value": "₹ 24,000"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "33 m²",
+                    "City view",
+                    "Rooftop pool",
+                    "Air conditioning",
+                    "Private bathroom",
+                    "Flat-screen TV",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Sofa",
+                    "Bath or shower",
+                    "Socket near the bed",
+                    "Desk",
+                    "TV",
+                    "Slippers",
+                    "Refrigerator",
+                    "Telephone",
+                    "Satellite channels",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Interconnected room(s) available",
+                    "Hairdryer",
+                    "Additional toilet",
+                    "Electric kettle",
+                    "Cable channels",
+                    "Wake-up service",
+                    "Wardrobe or closet",
+                    "Upper floors accessible by elevator",
+                    "Toilet paper",
+                    "Entire unit wheelchair accessible",
+                    "Hand sanitiser"
+                ],
+                "conditions": "Very good breakfast included Includes high-speed internet Non-refundable • Pay the property before arrival discount may be available"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "hotel_name": "Radisson Chandigarh Zirakpur",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 6,100"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 6,100"
+            }
+        ],
+        "price": "₹ 6,100",
+        "hotel_description": "Radisson Chandigarh Zirakpur is offering accommodation in Zirakpur Chandigarh. Featuring a 24-hour front desk, this property also boasts a restaurant and an outdoor pool. The accommodation features a concierge service and ticket service for guests. Guest rooms at the hotel come with a seating area, a flat-screen TV with satellite channels and a private bathroom with free toiletries and a bath. All guest rooms include a desk. Radisson Chandigarh Zirakpur offers a continental or buffet breakfast. The accommodation offers a sun terrace. Solan is 42 km from Radisson Chandigarh Zirakpur. The nearest airport is Chandigarh Airport, 11 km from the property.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848780.jpg?k=bf351041f41f84ef2ff6da085d8ca9003bd4c2f584851b247f3c2dfcd0f83558&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143501350.jpg?k=cf16224a71799a815072232caa88abc83037b6121dfb57796fd5c9ca9aa344ba&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158334368.jpg?k=92bf87778e5a8ac6985189e81696ea58dfdc50cc5c6d29a7fd9640dcfc17c2ac&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154298204.jpg?k=d58e7fb40712fde375789a32d43fd9dd63b3c897275c6219ce69e5bb305a25a5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848736.jpg?k=ce0223fc8bb2bc018951a98ae676fa6f8f6c24aab3f210849316b901099b3942&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847862.jpg?k=fbdeeb261e16902d7f942501802e9994562c22b1f0f036bec2473ac6512bf11d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848749.jpg?k=99c3e471982d82c3dfd105f8c65646b84146a5b1017890092d20fd64f26b90a0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847385.jpg?k=c1dbf0f2a876baa7a395fca17c48979c8f06f53126630c0921454c70ed147dab&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847122.jpg?k=a115337f0fe4dba870bee3344f91e90dd83cdb50072a7d2c4276ef91de481a0b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847176.jpg?k=4d527a919f8dae418be577322045f70b237c4068430b96a2107f40d9b004ed67&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848755.jpg?k=ff2ba0cce62324cb87d1e035f383fdd950ffb06ba2e9f2183874b008caf2742b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846726.jpg?k=5699206e5602bb48de6d1d054339685b5c47b6315f174b1a27056a7412a211e3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848875.jpg?k=1610e9dc16b07684be596d1d87aba2a9df3ac2671f88195399d74f316e34aede&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847738.jpg?k=3ae5cadc85b6f0d64882e1a30f199ed6152a8768996cd25b48aead7b4c4fd12b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846966.jpg?k=5542a0464923f1d9286d79a993346d15e044d58ceee2417b652fa09d7905561e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847806.jpg?k=051e2980c523bcd033e9793f39372d27bb865b809169b9d25bc660b6660633a5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847228.jpg?k=dfa004eb049d2d1070f7aaf50612f35d82f17710368f58e5992aa984d53e370d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848974.jpg?k=fe5fc1b5157e192ba5392123e931141e347224e00c83879a5635ddc24a04f70e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847852.jpg?k=25e9ebc4ac721030d7047a06868c66a74f5ff570431a7f8a269f55cb3c77d28a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847234.jpg?k=1168f32af58ca3b0caca669983a787fe9a7a165d66e03987352091e3243c2300&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848973.jpg?k=2b73e8904281e2a9213a78dba83a6e145aed19f817f96d18214616343ad4cbeb&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847401.jpg?k=196ed84cb49951e1d445470716a93f9b3e3f7c3b4a9bd1df8c2b291b1d0aaead&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846545.jpg?k=36993b981aec1f953004d3878421f2a6d06cad4c76a5cd9c21608504f162251e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848971.jpg?k=e6bcf2aaaafda78fbf4e0705c6956dc53e17b60a2d865dad4d26e78b0c00df30&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847747.jpg?k=84973ff6156919c4fe38a01c8110f6206642a88ba63d4a4fe2046cbea2548a23&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846524.jpg?k=48b98de9842bd7af72bf7793b13bd8e71ef3ac6234cf1b0df6778fa244bf57b5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848777.jpg?k=c880233b100ce9b09f944e4449e01a8b9ac105a416a0b37027792f3c4c824679&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847713.jpg?k=abce05bb85c8834fb5bc68d83770a451102bc7ac1b2bf8c6309ad957cd00e838&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846619.jpg?k=cf81c889292bb73acb8fbcbbf4135e471b5e6175b00b1687fc8f2da182d07f6d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848972.jpg?k=fdd0d134f6303a64b383117a41d83194e6b73f04df8938d8542543f1818df65d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847788.jpg?k=11149083c6bb4119d9c5baa190369e07159bca9c44d4071c0c6ceb3f81856650&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847188.jpg?k=cb8eefbd9c7b5f29004d77984235626a47cc7b740e4a5f14a35257bfc1ac4018&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232847037.jpg?k=a10bff4e75b35cdbdfb2f422587e06e11f39411d47d3d61d2902c950944a0d72&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232848799.jpg?k=a8c5fd5b75ff361c71e19dd81e7ba3d3f40ba79a0b87948b9eda43cce843338a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232846662.jpg?k=e76a4024a91d95826f53e380a7574affb61df6138ceba0e116efe891248e595a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318295244.jpg?k=e6a7fae8b505b5410953d3b03f6a82e37534b66dc964e13b26e86373d32d4968&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315718439.jpg?k=5db6c60e5d5da64e5aeae35f62f03ed9eb9b25598c0f57910a7cb01c1898b5cf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154298265.jpg?k=ac5aa250b85c42a174fae66d5b4b1abdd8d2d9dd0f4cf5b5770fa77f72aa43c6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154291013.jpg?k=24ade91a982db5d5ef060eecf4c9d1fbdab0648634ab146ea3ae402834cc0d2f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143498975.jpg?k=65b3147f3e6aecc2aef55533df3d7b0ce4a7b6ceb00bd5c793ddb7b48cece7b1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143498850.jpg?k=56018557e6dfe00aaee69eed15ec94703b53061a2c63589ba539b60cdf0fa159&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158351394.jpg?k=c17a8b21e76cc45999c475d0477bf956f63387de5b0ab76afe420c7dca5da73b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143498887.jpg?k=6db1ce4030496f954d703a9ae986755ce6856a1c3c2af7655d86ab3f22e30bbe&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143764739.jpg?k=c80077e5bc661ff669714a394b57b559e959e9d66dbbb5f505c3728fc514d474&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143501348.jpg?k=955277d71ec331def80d0a6c7afb3ce9cd9dc96259de34d1030497f2114eb562&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Superior Double or Twin Room",
+                        "roomtype_bed": "Choose your bed (if available)\n\t1 extra-large double bed \n\t2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,100"
+                    },
+                    {
+                        "roomtype": "Deluxe Room",
+                        "roomtype_bed": "Choose your bed (if available)\n\t1 extra-large double bed \n\t2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,500"
+                    },
+                    {
+                        "roomtype": "Business Class Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,600"
+                    },
+                    {
+                        "roomtype": "Executive Suite",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 11,100"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "33 m²",
+                    "City view",
+                    "Air conditioning",
+                    "Ensuite bathroom",
+                    "Flat-screen TV",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Shower",
+                    "Bathrobe",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Towels",
+                    "Desk",
+                    "Children's high chair",
+                    "Seating Area",
+                    "Private entrance",
+                    "TV",
+                    "Internet facilities",
+                    "Slippers",
+                    "Refrigerator",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Hairdryer",
+                    "Fan",
+                    "Electric kettle",
+                    "Cable channels",
+                    "Wireless Internet",
+                    "Upper floors accessible by elevator",
+                    "Toilet paper",
+                    "Child safety socket covers",
+                    "Entire unit wheelchair accessible"
+                ],
+                "conditions": "Good breakfast included Free cancellation before 18:00 on 23 May 2025 No prepayment needed – pay at the property discount may be available"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "hotel_name": "Holiday Inn Chandigarh ZKP by IHG",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 4,400"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 5,974"
+            }
+        ],
+        "price": "₹ 5,974",
+        "hotel_description": "Holiday Inn Chandigarh Zirakpur, An IHG Hotel is a 5-star property located on Chandigarh – Ambala National Highway. Hotel is just 13.2 Kms from Chandigarh International Airport and 7.1 Kms from Chandīgarh Railway station. The tallest hotel building in the city offers 131 modern and contemporary rooms, roof top swimming pool and 10,000 Sq. Ft. gymnasium which is one of the biggest in tricity hotels. Relax in our comfortable guest rooms that offer scenic views of Shivalik ranges and Chandigarh Ambala Highway, all rooms are equipped with Flat Screen LED TV’s, comfortable beds and pillows, work desk along with Tea/Coffee making facilities and a private bathroom. Treat yourself to multi cuisines at Viva All-day dining or sit back and relax after a long day at Viva Bar and Lounge located on the lobby level. Enjoy a delightful stay as you avail our 24X7 room service and experience true hospitality for good. Counted among the best places to visit when visiting Chandigarh Tricity. Chattbir Zoo Park: 6.7 Kms Sector 17 Plaza: 14 Kms Sukhna Lake: 15 Kms Rock Garden: 16 Kms",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/566822419.jpg?k=06534553a31898f2b20b668a96aaee70a864980dd78f9d5e36069e17cf1c4f13&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288144814.jpg?k=3c6e94c4ab2c43b2efcc7a754a6004981252b0bcda493224308af3861433887e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288159777.jpg?k=1df2e2e086136f33badb3faf7fdaadc1e6e741037d289fb4065c8671c04e1fa3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288159498.jpg?k=39a959a32bd0837c37b76f7b336fbfbcd2c978430f488ebc3ac0e0b35c4d6522&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506424.jpg?k=c846bfcb96c5627025874a761327f3e1325a27a071756ddea4654f25fae3b3b1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506256.jpg?k=5c370c4b9c43c230a793de00d97d03b999ca0d7941b9767a2cd2f1cb0d262394&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506168.jpg?k=95533b9fa2304965352acfc075d2bce1b80d89faaec7097e8ffdfaa1d0db7308&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506315.jpg?k=7e73ba421bf905aa1ffe9f3edafd461565717c786b38727b26420a3b5abd06d2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506133.jpg?k=9744e346ceac491e29fbccf41ba0cd7592e73040a0db1f429ca62ff0388af478&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506299.jpg?k=d99b3ab8e4c376455d1a11675919eda6f0fe5d64bca0bb7b2a12892dc90ab7d1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506488.jpg?k=4235fc50fea29d5b9b1dcaf21b349e27ab7c8290019013be31252c7ef3dba4b8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506491.jpg?k=0d853e64399c933b278cae056da535cca4d5a18a35a20a11425215412721d64f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506167.jpg?k=a93c5d0702959498b3fee0df61be4fd076e55a4c35ff7d406a10adfe1fb5447a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506232.jpg?k=273ce8b3e9950377031bd37b0e92aab55997ec34aa5558b3aa8116aefcaea276&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506304.jpg?k=e3df07e053709062655c50e1e4c13bfad61ceff8eacda128652d312d9795fce8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506341.jpg?k=35665b32a9d931b29d6b3d992f4890120fe2c8d662a4a230a9ffbdc530b3f2c6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506406.jpg?k=7ff114e5f84a8edf3e5e32a5cfb21ec75aad4aed7244af6b56257fa7147caa01&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506346.jpg?k=006ceff7becee6ea07e2a7f08377d6d7e5afe14c531e5ded20cf351bd7de94d5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506415.jpg?k=d09156c7e89a4bd0dbc6a8babc9000143a9388164b06553c8a2e0e480cb15267&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506498.jpg?k=5812706e16f3258153b879a305706641ba92374cbc16858c364eef185873794f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506490.jpg?k=8a20e14ceb30776b9c58caf3e1cd56a97c53574a741b89daeb526bbf413831fe&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288138380.jpg?k=6b658594f8539f4ec5575ce4accd63b7187397c6bd62b1429f885d0d93099ff8&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506487.jpg?k=55cc942f0ba04a6b72aa5247e8f3b64d18ecf0cce33e4d08c2990a31b84fe5e2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506363.jpg?k=91327e86955e211d913ce6a19ea30ae754c2f833cda5e3fa100647fe4c9235f3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506492.jpg?k=2f7ab5aec4d12b080106ef42b2a09495b835514e3511f085b76eb76dd5cb1985&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506486.jpg?k=45b53368554044eb8fff42f2fc26df30e664f22b3d2473319008978bea87932a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506482.jpg?k=62f236a7985459bae4255a8d54aa485475fc8b048d767f0b79f0bbb9be2e5508&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312506509.jpg?k=8e32097d83c5ff6370b11d746c13561adff5f2fe17283ae3ead53a848dea9404&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312504217.jpg?k=14f00f9926baaf15af7cd9accbc23701688dc041d00ddfeea52bdb00d4fe03b4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507460.jpg?k=8504c63a7d21cf1fb13f98c4959454bd08c64e3d9eb85264d0da8fdecb39ff63&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507506.jpg?k=250dd8e940803883d850d7af46b5aad00894ee9ab346099e1eb55eae168afa58&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507457.jpg?k=2d0d5307a9054006b89b51a83e7288c4fc281d66183de4d9c677a4949cf839ac&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507512.jpg?k=4cb0294ee2918af37b5f1670c6150416fd29a3edec786b7ee174b2cd16bf89f3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507505.jpg?k=0eac75b8608a732e2449790c83cbc017a91783a56dd7a45447ebf3bb979835cd&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312510982.jpg?k=6ae4a073b666c4e06969af8a142718a98622459be482fca40737bb251c4cc785&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507489.jpg?k=c9344714fcc1b8333271e7617b73a9e01d1fda40a8b34cdd6cb09c5db694603c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507453.jpg?k=2f83ea41862fa1a487e6d7b90bd37b4539f63d6c3ad9f9be73c270fa4be73ce4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288154161.jpg?k=cdf2fd1c702ad87a26258faa16d63e8d3eeddf5cf6262186eff7fd3b372f5ee2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507547.jpg?k=cb7177952bc319c463893f706ea40f44dc578c9c9a984f7f652074bccd3b1327&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282560637.jpg?k=2ccc08402bc81b567066898a82ee6fad7e7a45c33f2b98dbae135a7580a70d5a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282560630.jpg?k=232e276b0e1aea3f887572dd58b66e7fa89c3383f7cf5d4ae7bd450cc83b4421&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312507469.jpg?k=8e91193025d7653ddb9446efd665f173be0e2b39d0ca3bffeddb7dd4d381bf1f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312510927.jpg?k=50be7d0eab11904a3c215d4a200c582df96c500d29c46f171d4c8cefb37589f7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288161391.jpg?k=4c4f0c3333ed1e705db715a25650a54a66ef7cbb378518d9a65ab0e390903c87&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312510797.jpg?k=0caf130e13b5cfba4e75f2add6f5bd18103e270b80060f377c91403477e665fa&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Standard King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 5,974"
+                    },
+                    {
+                        "roomtype": "Standard King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 6,524"
+                    },
+                    {
+                        "roomtype": "Premium King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,674"
+                    },
+                    {
+                        "roomtype": "Standard Room",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 5,974"
+                    },
+                    {
+                        "roomtype": "Premium King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,974"
+                    },
+                    {
+                        "roomtype": "King Suite with City View",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 10,474"
+                    },
+                    {
+                        "roomtype": "King Suite with City View - High Floor",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 10,974"
+                    },
+                    {
+                        "roomtype": "One-Bedroom Suite",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 23,974"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "29 m²",
+                    "City view",
+                    "Air conditioning",
+                    "Ensuite bathroom",
+                    "Flat-screen TV",
+                    "Minibar",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Shower",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Towels",
+                    "Socket near the bed",
+                    "Desk",
+                    "Seating Area",
+                    "TV",
+                    "Internet facilities",
+                    "Slippers",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Hairdryer",
+                    "Carpeted",
+                    "Electric kettle",
+                    "Cable channels",
+                    "Wardrobe or closet",
+                    "Wireless Internet",
+                    "Upper floors accessible by elevator",
+                    "Clothes rack",
+                    "Toilet paper",
+                    "Child safety socket covers",
+                    "Entire unit wheelchair accessible"
+                ],
+                "conditions": "Exceptional breakfast ₹ 890 Total cost to cancel No prepayment needed – pay at the property"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "hotel_name": "Country Inn & Suites by Radisson Chandigarh Zirakpur",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 5,899"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 4,649"
+            }
+        ],
+        "price": "₹ 4,649",
+        "hotel_description": "Comfortable Accommodations: Country Inn & Suites by Radisson Chandigarh Zirakpur in Chandigarh offers comfortable rooms with air-conditioning, private bathrooms, and modern amenities. Guests enjoy free WiFi, flat-screen TVs, and private balconies. Exceptional Facilities: The hotel features a spa, fitness centre, restaurant, bar, and a year-round outdoor swimming pool. Additional services include a lounge, wellness packages, fitness room, and free on-site private parking. Dining Experience: A buffet breakfast is served daily, offering gluten-free and dairy-free options. The restaurant serves Chinese, French, Indian, and international cuisines, complemented by a barbecue grill. Prime Location: Located 2 km from Chandigarh Airport, the hotel is near attractions such as Rock Garden (13 km) and Sukhna Lake (11 km). Free WiFi is available throughout the property.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921981.jpg?k=23fb04a334d6450aad1a8d5aeb41e73169d6b07dc62e356034c9aafe1755fa4b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921930.jpg?k=b380b209890bc637c8d1a7701f9cecb88957003f12afa066fe9273835162457b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420774.jpg?k=f20c5e4e542572d546e308b9eba69823722eb0e3c8a1f9af1c0e9f35390b34d1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708747.jpg?k=8de0f9e5292a0f59ee8e3fa0ea7a93e97daa03963160989c74473751c83bc045&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265738488.jpg?k=2e9362c36d6989d13c43b7cc063b2ee6598cc13685abfb9febd2c5bcac780424&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921972.jpg?k=133e4010db7ee16c452a2ce4d1a977f59976bab8ba23d71320cc95d58e47c8bf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708801.jpg?k=0d610b697401b4bf7640d8f4fd99d48bdc219ba5241a9ef0223ab337f4127726&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175220273.jpg?k=e95873248e2ca5f1ad79508bb603600a62d77ba261cb02096b0017bd437b45de&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921908.jpg?k=731d57dda3286733be7cbe8a0ae2cc587ab3e872d91954e89bd556cae4ba2359&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921968.jpg?k=973a7e485ffb6c18004f98a285bc9bf9c27f7f9e6e7174881549f0e501ed1c5d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232829489.jpg?k=35decc9776ac3bf4616c4aa4a9c87a4f826c886fa87e5a7e0cd6e659419ed85b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921913.jpg?k=ea450e4de808453033dee379ba2c9fa9a4fe7f31241bd6035f3afd19c6b2b77e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921922.jpg?k=cc1e31d89d68a00bba5c5752cc26e2f0894922bf1c6abbbd71ad36cc9b312087&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420768.jpg?k=c504789bf9869318853de1fc50bb9c2941da62b04f9a834c79b460a01c0dcd31&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420770.jpg?k=b311a68a040a5a70b55e8e393710376029a583516af1a66a203947f8a72309c0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420775.jpg?k=13985510ac4e37d8fd2dffa49e415e01f5ff1fbc2131fa969ea40c0df7887f14&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921936.jpg?k=c9b81399c030276f757c8002ef173f2893f137e8882c7c36dac85d1392416242&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921942.jpg?k=895f4397167825971d83d400bdf4e65b3980007952c160fa5ce21c8ade048942&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921959.jpg?k=b9cb0ee7c6fe2ab2e8e3ac94924f03140661ac13d5fd18403ecca7213e386ea2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420779.jpg?k=f7d2784c18178e56f62a6a5161fb113ec917cd24f0b815e9bce818c9f293daab&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420784.jpg?k=c382dfc9f615e38edbd41cae7ca5a87a858af1ec09f690dcccb20b5312980eb2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420785.jpg?k=0e17cba7305c1924b3b990c761673334d095baefe2f3793e6f3603e0f4b6524b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/636133070.jpg?k=c37aad681ba8fb48c05dfc33d3d7499c30b424b425f7da3a6f2dc343f286d50c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/636133073.jpg?k=f3defd37e270029c415f9c025be258844e7020bdf07b616b00a0290093b36182&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328921950.jpg?k=6decedbd9502e4b0ee641ceb26e0a3eca435c79aa11e0fe7df792a5459a6cbb3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420783.jpg?k=f845950f6b1794ee6fb540189a97edf34942ddbf8f46dd6406c4e088439b64e0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420788.jpg?k=296f0033420fd9886237e70005383fb9ae114c3c7c8b80c23fecf62cdbbc2a4e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501420787.jpg?k=dfe29f881763ce38ed6ecd1285eca2f934e509644de93c070a858256909e9794&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338013007.jpg?k=6a8220aaeeca592b0e808bb8d4a7a26e61fd64b734d230826270e2e8c4983d54&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318295459.jpg?k=25ccf9b51618e71f7f0c0370c0a951f2a773c846228601f1eaed1e6f197962e4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173709063.jpg?k=dc9e1aa6691078de9be84187b587673bbc7b481bc2ba4c93af4f04502123e181&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708929.jpg?k=f18e933492646d766a326ce4c12bdecfa098410b0314f3360af482512af41cf7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182706745.jpg?k=bdf98a72b025f46dcbbd3577df89c91471449763dd7422ba22894f2384356194&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182706769.jpg?k=fc5e8bf35f9c4211b8c0917d5f52eea6153bfa19e60875cb3a3433494a94c0a9&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265738783.jpg?k=0b2fb5536696e21e577a391716ff0835e1f3b1f8cbc60388a75c558ffb70534b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173702946.jpg?k=c4a2462467416a7abf7e213981d412dcc6de306c4af66e39d58c3b4a4267f92c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265738557.jpg?k=e9b6a7edbbe27f5f4cbf46e8afe9a5414e93324dfca438cfb5d004bae1408cfd&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175220269.jpg?k=b784fca3ab788543824a9da7cb187474c446ab7b7f7e737cb2f90276b4ca7932&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175220268.jpg?k=95be65c57410e17c596310a2578242ccb95568c541c0ef2607f18e4ccca13375&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708980.jpg?k=36c3189ff123437077b3574c2cb08ba26f256e0a1ac9a3a964dfd057033c6d12&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173709017.jpg?k=d4b9a4f88c459f4d523471d691b6b5efc424679a026ecb20704ac9087b06c866&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175220278.jpg?k=119b03dcd8d10c3f96bc33c54813c4e5a6948249d5fa7110179a4366623c97df&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175220284.jpg?k=92a00012320c08a2bc3e59e090512cd642572bec00d84332f65d3b94ef39d96d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708838.jpg?k=dea7c9f18eb353ba429a4fa9f0c89a009a844e8c6f749f8f9cafe2c63d120639&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173708702.jpg?k=326ffaac302be7a42e480db7a1cd16c15ebdddb3db9e24d67fa2de5a49a738d4&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Superior Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 4,649"
+                    },
+                    {
+                        "roomtype": "Deluxe Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 5,649"
+                    },
+                    {
+                        "roomtype": "Suite - 1 Bedroom",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,399"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "Bath",
+                    "Air conditioning",
+                    "Private bathroom",
+                    "Flat-screen TV",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Shower",
+                    "Safety deposit box",
+                    "Bidet",
+                    "Toilet",
+                    "Towels",
+                    "Seating Area",
+                    "TV",
+                    "Internet facilities",
+                    "Slippers",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Hairdryer",
+                    "Electric kettle",
+                    "Cable channels",
+                    "Wireless Internet",
+                    "Upper floors accessible by elevator",
+                    "Toilet paper",
+                    "Child safety socket covers",
+                    "Entire unit wheelchair accessible"
+                ],
+                "conditions": "Good breakfast included Non-refundable • Pay the property before arrival discount may be available"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "hotel_name": "Hotel O Purple",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 1,251 "
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 1,317 "
+            }
+        ],
+        "price": "₹ 1,317",
+        "hotel_description": "Comfortable Accommodations: Hotel O Purple in Chandigarh offers family rooms with air-conditioning, private bathrooms, work desks, and free WiFi throughout the property. Each room includes a seating area, TV, and free toiletries. Convenient Facilities: Guests can enjoy a lounge, lift, 24-hour front desk, shared kitchen, housekeeping service, room service, and luggage storage. Free on-site parking is available. Prime Location: Located 12 km from Chandigarh Airport, the hotel is near attractions such as Rock Garden (3 km), Sukhna Lake (4 km), and Panjab University (3 km). Boating is available in the surrounding area.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934186.jpg?k=901f5c0ab00304d450ea2849c796d6ef3e6f0a829ae793805fd7cdbfdca793c1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934217.jpg?k=275c205422ce3eed87c499916d8e63173de48ee48497fa3f2c2f8f1098316463&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934189.jpg?k=dd785cd4383f9af4d65ba41019d219a8f79fc6a891daca970a829dbd2eafd075&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934171.jpg?k=d18832a951b79dadd0b1888f6eb99a7fe44f0abe758769d1ca52b6053ab16061&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934213.jpg?k=016f1dcf5196a71591eec4476747b8624482cfc802dd560f3a77da22dd1042e0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934223.jpg?k=70682871e6566d6fccb0f6e7aad784e0fd9e8800b1b8dc08a5c7a6ce0aa210fa&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934222.jpg?k=22559e937827ab44d6558670cde37307aa7571f5f2d3c6ea707a260b6d47667e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934191.jpg?k=2ff62457ecd72b07621d84cf4266747b9c0dc6eb67086e053d7a2693802aa68d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934175.jpg?k=909942cb39c81a38077933ccd035779469f019c1219f6eb5f4d5024f56278b49&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934192.jpg?k=0a9fd63c85f997f9fa4289c89f032b18d287772358e119d829fe7e863cce475a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934194.jpg?k=96bd3ff950c4d0349dc487be8a54c8b72b6b92221c9e887cb8df091e3f9fa6b6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934198.jpg?k=7ee2564de7ff036afc2e7ed1e9a30ed5be1c507da4df3ffa9f6fea3275fc6794&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934211.jpg?k=352111466217d28dd0b58d95a75e7ab04ec08e33dcc44c7131cc83cabb19a085&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934216.jpg?k=fad8e61413e19496f232f6a33ae2fbee8bfeab76211215a077cf66d41190ec36&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934168.jpg?k=9dbe63b1945219d2d6e73371702c0714a2c452e880686e9d816cd2519f1ff887&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934170.jpg?k=0f7ee56e77a5afb789c39fb34c1ca3a5e8985a4b8a833e23e2aa1250509e60ee&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934172.jpg?k=4d3c81368f9c9d3f8a301e8093d6d9b02092790f79351e6f395ae2a1a6c64c7f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934190.jpg?k=47426c3668648bfc20bfa45f209208ec4be1fc51915127391674affc3b709b8d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934193.jpg?k=41e99d78d09cc04b0f6cc9ed40538b0208429a96d3d3760fe62415c89ba08849&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934210.jpg?k=79b60a22320dd69e319be5535e822b1eefe41c513c44d547b7fec2d7b39bd591&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934214.jpg?k=8c0f081f35fd53b6aca4c164b582fd42cb3a28e0b025ea3d5b62c2a4513f42a2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934219.jpg?k=58e7bf60ba24aa1384afdcc01bb2fd9a3d41b5c7a57564cbf7d5d24ce05619d6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934215.jpg?k=4f33c150c447e42be0984e9497882bdf67a198494bc22a0c70c932a5d5e59501&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934218.jpg?k=315c7866e7cdc9262cc85083101b163fc733fbe3a44baefc716c9aa67cf4d76f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672934220.jpg?k=d768fce7a978c00ea4489d6abb6a6ff41e474624de9ced3fc3f224c8b52383cc&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Classic Triple Room",
+                        "roomtype_bed": "1 large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 1,317 "
+                    }
+                ],
+                "facilities": [
+                    "View",
+                    "Air conditioning",
+                    "Private bathroom",
+                    "Flat-screen TV",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Toilet",
+                    "Bath or shower",
+                    "Towels",
+                    "Linen",
+                    "Socket near the bed",
+                    "Cleaning products",
+                    "Tile/marble floor",
+                    "Desk",
+                    "Seating Area",
+                    "TV",
+                    "Telephone",
+                    "Satellite channels",
+                    "Fan",
+                    "Cable channels",
+                    "Wake-up service",
+                    "Wardrobe or closet",
+                    "Clothes rack",
+                    "Hand sanitiser"
+                ],
+                "conditions": "Free cancellation anytime No prepayment needed – pay at the property No credit card needed"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "hotel_name": "Radisson RED Chandigarh Mohali",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 7,500"
+            }
+        ],
+        "price": "₹ 7,500",
+        "hotel_description": "Elegant Accommodations: Rooms feature air-conditioning, private bathrooms, and modern amenities. Guests enjoy free WiFi, flat-screen TVs, and comfortable seating areas. Exceptional Facilities: The hotel offers a rooftop swimming pool, fitness centre, sun terrace, and lush garden. Additional facilities include a restaurant, bar, and games room. Dining Experience: A variety of breakfast options are available, including continental, American, and local specialities. The restaurant serves local, Asian, and international cuisines in a family-friendly and romantic ambience. Prime Location: Located in Mohali, the hotel is 6 km from Chandigarh Airport and near attractions such as Rock Garden (10 km) and Mohali Cricket Stadium (2 km). Free on-site parking and a 24-hour front desk enhance the stay.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398762.jpg?k=72e09993301a9df3fc4a874f1681148d1f54bad713b3039568028e3e403de904&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618788.jpg?k=c4a60ff20027c45fe1d7abe8f28af343de62bffb066c0e998ac77046797cb052&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398765.jpg?k=12de748fe07e80b0f3ae64d1927d601762f84d9bf7da2693087c8231d6d8f2dd&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398793.jpg?k=1051e2d8cedc9997b487140838cd1661dbfdaa1d9584e3f6a95371512370ab3a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398733.jpg?k=e467c5edcbd29770bb314ca2e40586dad3daf2d40766555898821949f5ee2d61&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054771.jpg?k=fa4bda1c360073c1aa03c5e1fcbead27c44e46dacbd9c8933862ef36358f64fd&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398757.jpg?k=431835b497b39cd7365c08e18ac7293e218105b9a471b75d4a593990df85e42a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398746.jpg?k=04a60917c7b4cf135cbea049f0128fad497cc5a7ad454d9f29fe990aebd1f979&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398804.jpg?k=7381ea42f5782db938c7d700c530c3762d2ff07153b559b5b8bf4dc585116bad&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054728.jpg?k=a8a6b4898b779b0f060d31dd32c626c27904f47bbd38fd338446a6dd21f84d13&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054731.jpg?k=4ef123e2c8a98ba93fa875d4c0b5923560dad4afd16c218bf4058f41cad43ecc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054730.jpg?k=609042f5f4c1952027266499fcd288f5acf4cf96bb00fbbbff760585aae81b1a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054729.jpg?k=4c2c4add027de1ab244c8d9d5b27a64986fcc51bf03bebca20d35d0bab393098&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618774.jpg?k=b6f416e80e9b090f7faf659a48c39b9f6703fca796ecce92948219a22cab8f10&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054752.jpg?k=2ba1416b0bbc05bbfbbc570069723c88f25669ff66ce72bd1b46f1a7c1a5564a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054741.jpg?k=42cd337eb1a2ffd7cae082de9ad9f51450c7b4d0c0f552d1a088aef2afdc905c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054738.jpg?k=956b8cdb85ad59b8707b111aa531aee19c0a7cc8fc2f3fbb420a71d748725a35&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054755.jpg?k=9cd586036a45bc9a95e5074b3db04ce5cbf109c31e044077d2d094310428201b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618784.jpg?k=b3bfbd0ef38d20c43070970cff15e86dd22bcdd990bb1d448c067792dbc61368&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618789.jpg?k=43868b86ba46c083f03cca4092ad596e8ad6b48bb3d64c9d7f318eb49af99ece&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398798.jpg?k=d5332c4e891a306d170df8a029c05b9ecbfb1bf3945cfddafb07b725b54e2a54&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398802.jpg?k=1a83d1174f2bf46c628e4e297f4ec959118746e9826580184be779c3760c2169&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398813.jpg?k=8e8674a051e63d37af038df78634e4c0f0451b5882ae4371e051e4ee9db1f2bc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398825.jpg?k=6186040cf9ba47fe19ce600c5754266ea42970de9d8a643eba42af9d4e759ea6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398760.jpg?k=627b9510f712b3fa82a95a949f8c2faf0fd761b784abdaf20630d50a581ea025&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814635.jpg?k=fcdf2b5e71b75d7c4fc5c37235b50a5bbefa46a6dd11be5704cb14660a137faf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814634.jpg?k=d3c64dcfb8f8f1b917ef029856676a9f0b5e18186f561b11c2b45ff073351b75&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814637.jpg?k=23a471229bd9a0c8b72ffdaba2769acd2b8f00b2fd7dc93deea7f90060cf146a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814641.jpg?k=07a926b59280dcf6c7c714cdf8fc012e7ae1e111b5c870aba151d7305b886dc3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814640.jpg?k=6f48483481e6b885242fa2140167c1daab043038dc6755ff6dbbff614489f7e4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814643.jpg?k=e180f9f01fb6b8ef2236378fbea791aa0f3650697d0cd62bc2c5aef7b36b88e7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814647.jpg?k=2523785933a74620e78be92b7c560d464636c8b85bd77292066a02d8b5f44206&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814645.jpg?k=69dc6d2972818b06e38f138b29a0fa1795412609ac4a728d34e2d147b941c23b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814650.jpg?k=8e5b94d9f450a46a253efce1732d229c1141d70e31643b0c3c6039d1583a7a71&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814653.jpg?k=560b7f36822fa9091330917a1703ed7dfcb0db289c595ec8cc1ce7c7803509de&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814654.jpg?k=54ec688677cc85159448791955002a479391f7320334904af3f438fc13ba860a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814656.jpg?k=2523af32d25661e37bb71a86ba89c5c07dd62dd45b7ed8df83fa7d6a9548ddb6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517814660.jpg?k=5bc527d0652820306fb99aa4307b2975fcfa1faf323cfbae10811ebb7226d171&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538939241.jpg?k=9e3604c8a1f89b62c58f5c7486fef76ff95e61e3a6ff22a3c9d33991c7cc5caf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618779.jpg?k=490164f78ac3fb55c6acf3557d2948e8f25363f13a0f7a2d724bce30454a7ecf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498618792.jpg?k=c3981af9d6a170049a08b0ce613bbed2ada9b7d762f6e699858668e1bf4d13fb&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332054761.jpg?k=f1b607e26bf234c13137c6cef4f2e004ad3caea8058a5de43da4dc4a7780619a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398716.jpg?k=929f82989cb24a43be7dcf34587bde7bafd025bfbc42879c915186f5f4fd3fb6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398719.jpg?k=71bf0fe272303e76a21914c5542312a8029b454283a1f720245086aced8a3ba6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363398723.jpg?k=7cdd5c3e97e3aa1d0c0dab813a05fa1f24099c06401521b53153c11f2fe37021&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Standard Double or Twin room with 10% discount on Food and Soft Beverage",
+                        "roomtype_bed": "Choose your bed (if available)\n\t1 large double bed \n\t2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,500"
+                    },
+                    {
+                        "roomtype": "Superior double or Twin room with early check in at 11:00, 15% discount on Food and Soft Beverage",
+                        "roomtype_bed": "Choose your bed (if available)\n\t1 large double bed \n\t2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,500"
+                    },
+                    {
+                        "roomtype": "Junior Suite with King Bed and living room, 20% discount on Food & Soft Beverage",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 23,470"
+                    },
+                    {
+                        "roomtype": "Executive Suite with King Bed and living room, Bath tub with Jacuzzi & Bottle of Wine",
+                        "roomtype_bed": null,
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 27,970"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "26 m²",
+                    "Air conditioning",
+                    "Private bathroom",
+                    "Flat-screen TV",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Shower",
+                    "Bathrobe",
+                    "Toilet",
+                    "Towels",
+                    "Desk",
+                    "Seating Area",
+                    "Private entrance",
+                    "TV",
+                    "Internet facilities",
+                    "Slippers",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Hairdryer",
+                    "Wake up service/Alarm clock",
+                    "Electric kettle",
+                    "Cable channels",
+                    "Wake-up service",
+                    "Alarm clock",
+                    "Wireless Internet",
+                    "Upper floors accessible by elevator",
+                    "Toilet paper",
+                    "Entire unit wheelchair accessible"
+                ],
+                "conditions": "Fabulous breakfast ₹ 1,060 Total cost to cancel No prepayment needed – pay at the property discount may be available"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "hotel_name": "Hyatt Centric Sector17 Chandigarh",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 8,990"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 8,550"
+            }
+        ],
+        "price": "₹ 8,550",
+        "hotel_description": "Located in Chandigarh’s Sector 17 and overlooking Zakir Rose Garden, Hyatt Centric Sector17 Chandigarh features a well-appointed spa and 3 dining options. It offers free WiFi, free parking and rooms with a flat-screen TV. Elegant rooms feature stylish modern interiors. Each is equipped with a personal safe, minibar and an attached bathroom with a shower. Local and international specialities are served at Cinnamon coffee shop and Indi Spice restaurant. Asian dishes are offered at Oriental Blossom restaurant. Guests can work out at the fitness centre or make travel arrangements at the tour desk. Laundry, dry cleaning and ironing services are available upon request. Hyatt Centric Sector17 Chandigarh is 500 metres from the city centre and 10 km from Chandigarh Railway Station and Chandigarh Airport is 22.2 km away. Indira Gandhi International Airport is 264 km away.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501519356.jpg?k=6162825cc75a38b8e19b23ce1e2a96f2a0c88db09a3ba0cc26613bce5364a37c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020555.jpg?k=17f7f0398e562e3e15f50c3dcb3ae779f46f473e5207cdef053ff8dc479c8642&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020610.jpg?k=d6b5c6948d17368f347895f161ec5ca3632a31bdbb6c73c827508d868ea1cc58&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020490.jpg?k=e41571ab65677b8b9d188710224941e7dec5e3240d17c1a7677e6a0f49c3787e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020595.jpg?k=62815aef8de767991e80f51473d6e04ceade6721bab9857b8ff32230baa03d78&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020494.jpg?k=ebadee2178a7c767d365725c9cb0b1c763b256f0a3a5670f4d0827958a497b3e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020496.jpg?k=73832c884e25ba7dd87bd5d22ede9bbd85ba58cc26484c2191fb9cb8d945bf7d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020499.jpg?k=3bf74682c6d8c7a0c70139c57101d4594322e6ebc5751a200818f6a02ea51bee&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020504.jpg?k=3158062ea95e9e0622894715a2179b4f4cb0bce6d877c2d29b8c4c3be0245146&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020514.jpg?k=ce7a6f78ce562ccb40ba1bb94b9ca025cd2050674f54419ec9b733a9501f6d66&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020515.jpg?k=25657c7ab106f3816c1af7be5ea4fa609d54a44d91cc954f0e16e17b18d8aff7&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020522.jpg?k=b6fa4d967ef4da7b9ab1b84fe4306748fd6db073781f15c3cdea222869e534fd&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020534.jpg?k=8f259f7e0edbc9aff22f72142cf7e71f0a74e6b188adf8222245ed1b71468371&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020521.jpg?k=4da9e68e6605abaaaee6bac3b5920fae0ceef4e62709b4344ed47f5f7122b86b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020525.jpg?k=1359fc61379a472f3b4c1ee1bfd7905108718e40824937225f9be4fc8b1d208e&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020524.jpg?k=66730497fe0dc709c98a69f7a2569380f18932b70f7efaf90e77e559507c4d09&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020528.jpg?k=dc5affac17b99ea5b68de55a912e69da43e3788cc4106ada4c8383f915820281&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020532.jpg?k=6b145aa511ffd4a29f6bf7914ae1088d65646fb555e8ded3c43227277c7cd2fb&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020529.jpg?k=9195931efd32e54e4620b2b9801e85620b7373966383b3cfdef7b7d7c7f97aa6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020537.jpg?k=0458329f7e152894e231e34fa0c1315c2bbe105d7abf9044536f13eb288d0ace&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020539.jpg?k=e0a4a87ff9f2f49e6ff5e8083d3511b88a708204ad0171cc9fdd534da994eadb&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020547.jpg?k=dc0265f4841bce04e9bf91a3b184bb74452e051443cb24e4e35bcc714720b19d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020550.jpg?k=6e709823a312471778cf92134d3aeca2369c95b0e1eb5dd648870b86ad829a64&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020548.jpg?k=357f5aab1a6fe50d9a009ac129172ceefb7e7d390e63cd6fd3321c06d8d8cfff&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020552.jpg?k=dcdb0007dba851d9b4ca82ae8f41578e538d3b6bae66f01682e1718743108e2d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020567.jpg?k=d9c678bd577ce67788f9fdaf5f05a54063b6076120a761a48ab22a9e06e9bee1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020556.jpg?k=b371336786106337e2be534ed27f7e56b8e143a6471937c4a677b596225480d1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020559.jpg?k=b655256b67373b17190b7494642d37514937aa973a9cd8a1af03c6291e749298&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020560.jpg?k=c0a4ccd5f399831bd4da5de04c5fb3ef248c59efcf491053c8751d1ee62fa00a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020566.jpg?k=6655a21caf7c374a83d88638f80d3da30fa3767348c11b81ff0f17a8a5c238b2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020571.jpg?k=4850c9f0eb5aff2b2da34af21051bb94ad6cfbf13963816b50648e0df38d389a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020568.jpg?k=b21b05cda1de6c026fbd0e6eade09ba460f6478a6abb0b084fab03d0cee1699a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020575.jpg?k=0d33f1d025c00781eccfa84b4ea42032e790a2fbe62cc623dcf67716558e19ad&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020577.jpg?k=68d026e8abec99892c8fe48a5aec30323ee4afc28bbd0b63e413c05664cf9551&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020585.jpg?k=1f38392ce6b73166315e9d62830ae2e0ca7576f55d5676d1793fa621895ae013&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020584.jpg?k=994bd71279baf85899f2068191989c47e0b4807a337853ddffda6b906d28c3c1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020583.jpg?k=469adc6dee6d305ce36ec7e4d004237d29d5f86b8b2a65d9a1bec63e2613ff84&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020590.jpg?k=8dcfc1a347c80eac4eb5096ce766a987cae2827b282d221076f7aa8e7fcd3535&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020589.jpg?k=da0b056c3c89ac5c575e0d102b0743c6b28cbbfe65b1f301c20d5215dcecd7dc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020598.jpg?k=5e80d25ac02d9627aedc22dbeb803dcf38515416c815406bf37bf23c20ce7a1c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020600.jpg?k=52e13dcac7ecff5dec0733b602bfb48ad61fdaa3cce0eb33b5493112a7d21783&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020603.jpg?k=f405e43d07dfe3098633509c988178fe2ac7ae3eadafc678038902dd0eaa4190&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020605.jpg?k=149bb137c086637a868606678f05085512f390a1e423cada0ed941212b4e2833&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020607.jpg?k=fbfda6de0c57eac89743bef451342f4bd75d22f59c1a31452a392834cf681a93&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/539020612.jpg?k=1ab517c2ae1aa3452946216cf2eb79249c0cd88fbe3abf89b6138d5dc8b30eb8&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,550"
+                    },
+                    {
+                        "roomtype": "Twin Room",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,550"
+                    },
+                    {
+                        "roomtype": "Deluxe King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 9,450"
+                    },
+                    {
+                        "roomtype": "Premium King Room",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 11,250"
+                    },
+                    {
+                        "roomtype": "Suite",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 21,897"
+                    }
+                ],
+                "facilities": [
+                    "Room",
+                    "30 m²",
+                    "Air conditioning",
+                    "Ensuite bathroom",
+                    "Flat-screen TV",
+                    "Minibar",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Safety deposit box",
+                    "Toilet",
+                    "Bath or shower",
+                    "Hypoallergenic",
+                    "Seating Area",
+                    "TV",
+                    "Refrigerator",
+                    "Telephone",
+                    "Ironing facilities",
+                    "Tea/Coffee maker",
+                    "Radio",
+                    "Hairdryer",
+                    "Cable channels",
+                    "Wake-up service",
+                    "Alarm clock",
+                    "Laptop safe",
+                    "Wardrobe or closet"
+                ],
+                "conditions": "Good breakfast ₹ 1,150 Includes 15% off food/drink+ 15% off property services+ parking+ early check-in+ late check-out Non-refundable • Pay the property before arrival"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "hotel_name": "Novotel Chandigarh Tribune Chowk",
+        "date": [
+            {
+                "date": "2025-05-22",
+                "price": "₹ 7,000"
+            },
+            {
+                "date": "2025-05-23",
+                "price": "₹ 7,000"
+            }
+        ],
+        "price": "₹ 7,000",
+        "hotel_description": "Elegant Accommodation: Novotel Chandigarh Tribune Chowk in Chandigarh offers a 5-star experience with modern rooms featuring air-conditioning, private bathrooms, and city views. Each room includes a work desk, minibar, and free WiFi throughout the property. Exceptional Facilities: Guests can enjoy a fitness centre, restaurant, bar, and outdoor seating area. Additional amenities include a paid airport shuttle service, 24-hour front desk, concierge, and free on-site private parking. Dining Experience: The modern restaurant serves a variety of cuisines, including Chinese, French, Indian, and Italian. Breakfast options include continental, American, buffet, Italian, full English/Irish, vegetarian, vegan, gluten-free, and Asian. Prime Location: Located 3 km from Chandigarh Airport, the hotel is near attractions such as Rock Garden (8 km), Sukhna Lake (7 km), and Mohali Cricket Stadium (8 km). Guests appreciate the attentive staff, room cleanliness, and comfort.",
+        "img_link": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976231.jpg?k=978067c42f95ee2afafd0f21cdfef415d8b675255c698c78826324f32fc8c998&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558592752.jpg?k=4e7433cf86119faa555b95eeaf09641838a77c1b9126be4bee92f851155d858d&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558592855.jpg?k=adb44cc4d650c9bb084c4de164bd4f7d26e96e4b3b4a5aa1bbfba4bf60f95085&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976227.jpg?k=871444b0518b4d90c302214b2e724e03d64fa00ebc3ceb9c22e81b55413e0aa2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142787.jpg?k=995a5f4d4be10f943fe4e4cab6260b74c8dfb75158eeb07a75d835c0f11a9717&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142860.jpg?k=750439716a06a03218770498f731a9fcd107b1105abb409dfa04f86892277bc1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759707.jpg?k=db188292e044de845643d485c0b5ec0826bb206eda942d2d5c865f6eacb294dc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759705.jpg?k=669a96cc49af6ee4bee1e81acf944001149e8babeb1d67536dc7b81da55f6e84&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362377.jpg?k=843926f8e17f3f94e1fae1650bd134b4fa99cf91941a2f620adc1d7ec572b370&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759706.jpg?k=6770e75fa98d100f3cb8761870b9bf7489ff005bdef4afab9d517ced99d87ee4&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759712.jpg?k=1ab0554a26fdacdc9b70a3995f917646a5bdba489ba69565133a5525ff4a5803&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362380.jpg?k=a78193e3fad9a708f0678812643a4354b798594b0317f0080d8ded2706a2c1f0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362387.jpg?k=0ac06e710f4ee4a2d4256d794e327a354c3c8125a32f0a14e50230729d8ad5b2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362390.jpg?k=fdad14cbabb1c4d1818bf195984e2d4363b082052cd625648cb4ef5c27244054&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362391.jpg?k=3bd42647cbb774653a97af71ae5e646b573591536d28e7e366e0e74c4ae4e36b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362395.jpg?k=0ae5a36d5817daa46d534f773f933d76407559e554373a9a6458893bed73f8ca&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362394.jpg?k=a03680197ae88baf31fc0bbc67c3e25c3a8fda3e9c44ac340a6dff1d1248ebc1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362398.jpg?k=30ac289586f6b33e05a500d92c9dcf632a2a7c8958b290cba00ce699e6cb893c&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362401.jpg?k=def882ba5e49e84928319101c7e6d2cc32bdc673078f3ec8a406b7481ec5ddba&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362402.jpg?k=5dd4ce5cd9483089b51cc847ad0f464cfaa311b4e820670221a53ac8651de431&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362404.jpg?k=e6a3dadabc9aa6955224997516e7532219437f2e81aaabbe3f16b2efe1e1a5f3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362405.jpg?k=53c18b14cc432c27c0d9fa90ca9788c7de241b57be6911babea9767256b0966b&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362408.jpg?k=cd37119793c0197a499683d9248033832450e4a9d2224d8ed3a1577b4c6ac431&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759710.jpg?k=55e7f02b8979cef783094edfefd5ad48b5277fa1e3455f23ef2315dd2086f646&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/553759716.jpg?k=90de8dad47ab4f687ab17a6c12c067c2ad57a9ee64140874e120a5026d2e72bc&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362410.jpg?k=387d3d3991bd839a2084b6dfef3c8d827c39abdf1e08fe2700aec5696d488b28&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976269.jpg?k=fa1641acce8e43899833dde63d5e71b16b0a168de8fc45e37dc0e56adc5bdad0&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328144055.jpg?k=1710b579beefa3c3fc853cf39d4adf3799ce8e5dd4c7aa4cd3fbd6a477ea8781&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328143914.jpg?k=2b5236840a68b0f584cbfcb6b45cb3b29294e0ddf103f47eca1aefd600cca990&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367362385.jpg?k=7d6bc25c7d73a185ff5fc92b6de02dc2c02e9905ec11f7bc9191ea328a212ad2&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976219.jpg?k=596093dd4a31c2e0d4524e8dff2d1b12950b3276362a912ddec987c7157362ea&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976267.jpg?k=310c921587885f6da9b39cd00ed4276e2dbecc2d1f2510d8cf0442abbc987c2f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976222.jpg?k=b8ff1374a108b008dec18413728a40df5c65a6909fbd12c8e22b6dbb60e085ed&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976233.jpg?k=552f6519eea2c140e60d72ced3f8e7d99b711632acd383e9b2ca3ec00c4286e9&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976259.jpg?k=0fe624ca64f894a1eae1704da7e26d21eaf72c529fa18ee71ac67240138aad54&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976228.jpg?k=f145c7001ee3e10eac36124dc93dfd2e6d325ea3bb0b4f5efb631040eaf7ee81&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976229.jpg?k=6bc1f83739a93ae55c5137fc67a58491cee32c3e8738e53fb28539ca9aea9a94&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976238.jpg?k=6c7fd02d807fa25d2912283f511a1359c9e761618a39c605a492af1c170cd333&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976257.jpg?k=efd8d08b7ba7b21b383b680456fa74821c69095845c3f4a9be3d74f6d095f4bf&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327976185.jpg?k=64cd87b0c769628b40de63e52af235d9b1a4585326d74a98b1ac337150a78987&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328143915.jpg?k=c5f17abaac2676e3c7168958e52fdd69d0f1bad966f09c102b3102fc7bb12487&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142936.jpg?k=5d352e553b593cc5e219097270738267c3bcbd9d87adf813dd6267be6cc24b48&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142913.jpg?k=ec1adcfeec671e5f772e0ea652c4f42eef0ea376623471888eef1833934502fb&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142903.jpg?k=0cbecd8d7f26bdb26db8fedbf78f16d24b1c591429a64efd402d9561051657d6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328142830.jpg?k=cd3b61df1827790eb2c3bb41b2f2d212b3027228271467c138e1b144a6f5122f&o=&hp=1"
+        ],
+        "availability_data": [
+            {
+                "roomtype": [
+                    {
+                        "roomtype": "Superior King Room with 15% Discount on Food and Soft Beverage only on Food exchange restaurant",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,000"
+                    },
+                    {
+                        "roomtype": "Superior Twin Room with 15% Discount on Food and Soft Beverage only on Food exchange restaurant",
+                        "roomtype_bed": "2 single beds ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 7,000"
+                    },
+                    {
+                        "roomtype": "Executive King Room with 15% Discount on Food and Soft Beverage only on Food exchange restaurant",
+                        "roomtype_bed": "1 extra-large double bed ",
+                        "number_of_guests": "Max persons: 2",
+                        "price__value": "₹ 8,000"
+                    }
+                ],
+                "facilities": [
+                    "28 m²",
+                    "Garden view",
+                    "Landmark view",
+                    "City view",
+                    "Inner courtyard view",
+                    "Air conditioning",
+                    "Ensuite bathroom",
+                    "Minibar",
+                    "Free WiFi",
+                    "Free toiletries",
+                    "Shower",
+                    "Safety deposit box",
+                    "Sofa",
+                    "Towels",
+                    "Tile/marble floor",
+                    "Desk",
+                    "TV",
+                    "Telephone",
+                    "Tea/Coffee maker",
+                    "Iron",
+                    "Hairdryer",
+                    "Electric kettle",
+                    "Wake-up service",
+                    "Tumble dryer",
+                    "Wardrobe or closet",
+                    "Clothes rack",
+                    "Toilet paper"
+                ],
+                "conditions": "Very good breakfast ₹ 850 Non-refundable • Pay the property before arrival"
+            }
+        ]
+    }
+]

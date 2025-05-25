@@ -1,0 +1,7 @@
+{
+    "json.schemas": [
+
+    ],
+    "jsJsxSnippets.settings.importReactOnTop": false,
+    "js-beautify.extra_liners": "['head', 'body', '/html']"
+}
